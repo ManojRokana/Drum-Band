@@ -17,7 +17,7 @@ footer {
 }
 
 .w {
-  background: url("images/crash.png") no-repeat scroll 0 0 transparent;
+  background: url("crash.png") no-repeat scroll 0 0 transparent;
  color: #000000;
  cursor: pointer;
 
@@ -25,41 +25,41 @@ footer {
 }
 
 .a {
-  background: url("images/kick.png") no-repeat scroll 0 0 transparent;
+  background: url("kick.png") no-repeat scroll 0 0 transparent;
   color: #000000;
   cursor: pointer;
 }
 
 .s {
-  background: url("images/snare.png") no-repeat scroll 0 0 transparent;
+  background: url("snare.png") no-repeat scroll 0 0 transparent;
  color: #000000;
  cursor: pointer;
 
 }
 
 .d {
-  background: url("images/tom1.png") no-repeat scroll 0 0 transparent;
+  background: url("tom1.png") no-repeat scroll 0 0 transparent;
  color: #000000;
  cursor: pointer;
 
 }
 
 .j {
-  background: url("images/tom2.png") no-repeat scroll 0 0 transparent;
+  background: url("tom2.png") no-repeat scroll 0 0 transparent;
  color: #000000;
  cursor: pointer;
 
 }
 
 .k {
-  background: url("images/tom3.png") no-repeat scroll 0 0 transparent;
+  background: url("tom3.png") no-repeat scroll 0 0 transparent;
  color: #000000;
  cursor: pointer;
 
 }
 
 .l {
-  background: url("images/tom4.png") no-repeat scroll 0 0 transparent;
+  background: url("tom4.png") no-repeat scroll 0 0 transparent;
  color: #000000;
  cursor: pointer;
 
